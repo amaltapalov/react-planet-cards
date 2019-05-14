@@ -1,4 +1,8 @@
+## Planet Cards based on React.js
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+![Project screenshot: Scoreboard](/screenshot.jpg)
 
 ## Available Scripts
 
