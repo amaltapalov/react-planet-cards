@@ -1,6 +1,6 @@
 import React from "react";
 
-function Planet(props) {
+export default function Planet(props) {
 	return (
 		<div className="card">
 			<div>
@@ -22,5 +22,3 @@ function Planet(props) {
 		</div>
 	);
 }
-
-export default Planet;

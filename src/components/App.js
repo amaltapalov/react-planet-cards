@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import "../App.scss";
 import Planet from "./Planet";
 
-class App extends Component {
+export default class App extends Component {
 	state = {
 		planets: [
 			{
@@ -99,5 +99,3 @@ class App extends Component {
 		);
 	}
 }
-
-export default App;
