@@ -11,11 +11,11 @@ function Planet(props) {
 			<h3>Planet Profile</h3>
 			<ul>
 				<li>
-					<strong>Diameter:</strong>
+					<strong>Diameter: </strong>
 					{props.diameter}
 				</li>
 				<li>
-					<strong>Moons:</strong>
+					<strong>Moons: </strong>
 					{props.moons}
 				</li>
 			</ul>
@@ -24,7 +24,3 @@ function Planet(props) {
 }
 
 export default Planet;
-
-callAPI();
-
-function callAPI() {}
